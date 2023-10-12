@@ -1,0 +1,4 @@
+### How to change the number of inputs?
+Normally with transfer learning . we only change the head of the neural network . whole keeping the input + middle layer the same. But how to change the number of inputs? No need to change it. We can train the transformer to understand the multiple input sentences concatenated into the same input. This works with RNN as well
+
+Format of input text : "[CLS] Some Text ABC. [SEP] Another text statement. [SEP]"
