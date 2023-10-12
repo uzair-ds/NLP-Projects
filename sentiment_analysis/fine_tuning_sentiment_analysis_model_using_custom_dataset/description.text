@@ -1,2 +1,0 @@
-Fine tuning the sentiment analysis text classification model using custom AirlineTweets dataset and base model - distilbert-base-cased.
-Labels  =  Positive , Negative and Neutral
