@@ -1,0 +1,1157 @@
+
+WER: 23.38
+CER: 10.78
+
+NORMALIZED WER: 14.48
+NORMALIZED CER: 8.53
+
+
+REF: i can hardly breathe
+HYP:  I can hardly breath it
+------------------------------------------------------
+REF: i have severe dry cough
+HYP:  I have severe dry cough
+------------------------------------------------------
+REF: when i wake up in the morning i feel dizzy
+HYP:  When I wake up in the morning I feel dizzy.
+------------------------------------------------------
+REF: When I force my eyes to view I have blurry vision.
+HYP:  When I force my eyes to view, I have blurry vision.
+------------------------------------------------------
+REF: I have throbing in my shoulder
+HYP:  I have probably in my shoulder.
+------------------------------------------------------
+REF: Every time I comb my hair there are so many hair in my comb.
+HYP:  Every time I comb my hair, there are so many hair in my comb.
+------------------------------------------------------
+REF: The knee feels like it rusted and I suddenly cannot bend it anymore.
+HYP:  The knee feels like it is rested and I suddenly cannot bend it anymore.
+------------------------------------------------------
+REF: When i'm awake in the morning I feel strange and have vertigo
+HYP:  When I work in the morning I feel strange and have hardy work.
+------------------------------------------------------
+REF: There is this pain that radiates from my chest up to my left arm.
+HYP:  There's this pain that radiates from my chest up to my left arm.
+------------------------------------------------------
+REF: I can't stand with this horrible feeling in my stomach
+HYP:  I can't stand with this horrible feeling in my stomach.
+------------------------------------------------------
+REF: I feel a clicking sensation in my knee each time I step.
+HYP:  I feel a clicking sensation in my knee each time I step.
+------------------------------------------------------
+REF: There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.
+HYP:  There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.
+------------------------------------------------------
+REF: Even though I'm an adult my face keeps breaking out in pimples.
+HYP:  Even though I am adult, my face keeps breaking out in pimples.
+------------------------------------------------------
+REF: I feel pain when i think of her
+HYP:  I feel pain when I feel hurt.
+------------------------------------------------------
+REF: i feel sad
+HYP:  I feel sad
+------------------------------------------------------
+REF: I have dark spots on my skin
+HYP:  I have dark spots on my skin
+------------------------------------------------------
+REF: I have front head pain and when I get it the light bothers me.
+HYP:  I have front head pin and when I get it, the light bothers me.
+------------------------------------------------------
+REF: My wound opened up again
+HYP:  My Ound Opened Up Again
+------------------------------------------------------
+REF: I have found some issues in my skin and tried to use cream but it doesn't get better
+HYP:  I have found some issues in my skin and tried to escape it, it doesn't get better.
+------------------------------------------------------
+REF: my ear hurts me badly
+HYP:  My ear hurts me badly.
+------------------------------------------------------
+REF: My knee feels weak and it gave way the other day at the top of the stairs.  Luckily there was a rail to hold on to.
+HYP:  My knee feels weak and it gave away the other day at the top of the stairs. Luckily there was a rail to hold onto.
+------------------------------------------------------
+REF: My stomach has been sore since yesterday.
+HYP:  My stomach has been sore since yesterday.
+------------------------------------------------------
+REF: I do not know why I feel cold
+HYP:  I do not know why I feel cold.
+------------------------------------------------------
+REF: I have a sharp pain in my neck
+HYP:  I have a japai in my neck.
+------------------------------------------------------
+REF: I am having running nose
+HYP:  Hey, I'm having a runny nose.
+------------------------------------------------------
+REF: I have constant stomach pain and bloating.
+HYP:  I have constant stomach pain and bloating.
+------------------------------------------------------
+REF: I am always cold, even when I am wearing layers
+HYP:  I am always cold, even when I am wearing layers.
+------------------------------------------------------
+REF: When I play football I have muscle pain.
+HYP:  When I play football I have muscle pain
+------------------------------------------------------
+REF: i have pain like needles in my joints.
+HYP:  I have pain like needles in my joints
+------------------------------------------------------
+REF: I can't move my head up and down.
+HYP:  I can move my head up and down.
+------------------------------------------------------
+REF: I love to walk and be outside but the bottoms of my feet get sore so quickly.
+HYP:  I love to walk and be outside, but the bottoms of my feet get sore so quickly.
+------------------------------------------------------
+REF: My body feels weak although I eat a lot, why?
+HYP:  Why?
+------------------------------------------------------
+REF: In the morning my respiration is loud.
+HYP:  In the morning my respiration is loud
+------------------------------------------------------
+REF: I cut myself and I'm bleeding.
+HYP:  I cut myself and I'm bleeding it
+------------------------------------------------------
+REF: I can't walk well I have an ache in my foot
+HYP:  I can't walk well. I have an egg in my foot.
+------------------------------------------------------
+REF: I feel like l fell in hot water
+HYP:  I feel like I fell in hot water.
+------------------------------------------------------
+REF: I'm very worried that I'll go bald soon. Am I very sick?
+HYP:  I'm very worried about Drago Ball soon. Am I very sick?
+------------------------------------------------------
+REF: I used alot of pain killer to get better but i still feel the same back pain
+HYP:  I used a lot of painkiller to get better, but I still do the same back pain.
+------------------------------------------------------
+REF: I feel a great pain in my shoulder joint and it does not go away
+HYP:  I feel a great pain in my shoulder joint and it does not go away.
+------------------------------------------------------
+REF: My knees seem to grind as I go up or down stairs.
+HYP:  My knees seem to grind as I go up on downstairs.
+------------------------------------------------------
+REF: Mr hair is falling out just by combing it.
+HYP:  Mr. Rihar is falling out just by combing it
+------------------------------------------------------
+REF: I was kicked in the head playing soccer last night.
+HYP:  I go kick in the head, play it subtle, last night.
+------------------------------------------------------
+REF: I can't turn my neck to the left without feeling a stabbing pain
+HYP:  I can't turn my neck to the left without feeling a stabbing pain.
+------------------------------------------------------
+REF: I feel deep Tingling when I touch Acne followed by bad sensation
+HYP:  I feel deep tingling when I touch agn, followed by bad sensi-tune.
+------------------------------------------------------
+REF: discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen.
+HYP:  1.
+------------------------------------------------------
+REF: My head hurts in the back and the pain lasts all day.
+HYP:  My head hurts in the back and the pain lasts already
+------------------------------------------------------
+REF: I feel very hard to breathe
+HYP:  I feel very hard to breathe.
+------------------------------------------------------
+REF: there pain in my foot
+HYP:  They are praying in my phone.
+------------------------------------------------------
+REF: I lose a lot of my hair
+HYP:  I lose a lot of my hair.
+------------------------------------------------------
+REF: My heart hurts while I'm sad, why?
+HYP:  My heart hurts while I'm set. Why?
+------------------------------------------------------
+REF: I get big patches of irritated pimples on my back and they hurt.
+HYP:  I get bit patches of irritated pimples on my back and they hurt
+------------------------------------------------------
+REF: when i raise my hand i feel pain in my shoulder.
+HYP:  When I rise my head, I feel pain in my shoulder.
+------------------------------------------------------
+REF: I get chills and aches all over.
+HYP:  I get chills and acne all over
+------------------------------------------------------
+REF: surgical wounds red, firing pus, painful and hot to the touch
+HYP:  Surgical old sheet. Ring pass. Painful and hot to the touch.
+------------------------------------------------------
+REF: I'm having a hard time hearing.
+HYP:  I'm having a hard time hearing
+------------------------------------------------------
+REF: my hand open wound got infected
+HYP:  My hand open wound got infected.
+------------------------------------------------------
+REF: My knees hurt so bad to walk that I stay sitting more than I should.
+HYP:  When it turns about the world, that is a sitting more than I should.
+------------------------------------------------------
+REF: I got acne when I ate chili
+HYP:  I got acne when I ate chili.
+------------------------------------------------------
+REF: The wound is still open
+HYP:  The wound is still open
+------------------------------------------------------
+REF: I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.
+HYP:  I started taking swimming lessons and I guess I swallowed too much water through my nose because this sinusitis is killing me now.
+------------------------------------------------------
+REF: I often get a stomach ache after I eat.  I haven't been able to pinpoint which foods might be the trigger.
+HYP:  I often get a stomach ache after I eat. I haven't been able to pinpoint which foods may be the trigger.
+------------------------------------------------------
+REF: My husband has a spot on his lip that he though was cold sore but now it has broken open and leaks fluid all day.
+HYP:  My husband has a spot on his lip that he thought was cold sore, but now it has broken open and leaks fluid all day.
+------------------------------------------------------
+REF: When I bend over I get a shooting pain down my back
+HYP:  When it banned over, I get a shooting banged down on my back.
+------------------------------------------------------
+REF: Why is my shoulder aching when I try to pick up the laundry?
+HYP:  Why is my shoulder aching when I try to pick up the laundry?
+------------------------------------------------------
+REF: My muscles in my lower back are aching.
+HYP:  My muscles in my lower back are aching.
+------------------------------------------------------
+REF: In highschool I had a lot of acne.
+HYP:  In high school I had a lot of acne.
+------------------------------------------------------
+REF: I have a back pain since I turned 70 years old.
+HYP:  I have a back pain since I turned 70 years old.
+------------------------------------------------------
+REF: I had internal pain and gases when I ate indian spicy food yesterday
+HYP:  I had internal pain and gasses when I ate Indian spicy food yesterday.
+------------------------------------------------------
+REF: It is like I have a needle pushing through my heart.
+HYP:  It is like I have a needle pushing through my heart.
+------------------------------------------------------
+REF: It feels like my heart is going to leap out of my body. It hurts.
+HYP:  It feels like my heart is going to be out of my body tops
+------------------------------------------------------
+REF: I have a foot ache in winter, or when it feels cold, why?
+HYP:  I have a few guys in winter, or when they should go, why?
+------------------------------------------------------
+REF: I had an accident and my wound was open when I arrived to hospital
+HYP:  I had an accident and my wound was open when I arrived to hospital.
+------------------------------------------------------
+REF: It hurts when I raise my arm up
+HYP:  It hurts when I raise my arm up
+------------------------------------------------------
+REF: The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.
+HYP:  The worst headache was during a hangover in my 20s. I sincerely thought I was going to die from brain inflammation.
+------------------------------------------------------
+REF: i can't rotate my neck
+HYP:  I can't repeat my name
+------------------------------------------------------
+REF: There is pain in the muscles I do not know caused
+HYP:  There is pain in the muscles I do not know caused.
+------------------------------------------------------
+REF: i have a strong shoulder pain
+HYP:  I have a strong full of pain
+------------------------------------------------------
+REF: I have shooting pains up and down my back.
+HYP:  I have shooting panes up and down my back
+------------------------------------------------------
+REF: My face break out badly every month around my cycle.
+HYP:  My favorite cat, backlit every now and then around my childhood.
+------------------------------------------------------
+REF: My heart is beating fast and it scares me.
+HYP:  My heart is beating fast and it scares me.
+------------------------------------------------------
+REF: My heart hurts when I exercise
+HYP:  My heart hurts when I exercise.
+------------------------------------------------------
+REF: My hair always falls out and i have lost a lot of hair lately
+HYP:  My hair always folds out and I've lost a lot of hair lately.
+------------------------------------------------------
+REF: i have pain but i can't specify place
+HYP:  I have been, but I can't specify a place.
+------------------------------------------------------
+REF: I've been feeling very sad lately
+HYP:  I have been feeling very sad lately
+------------------------------------------------------
+REF: I have a scab on the back of my hand that just won't go away.
+HYP:  I have a scab on the back of my hand that just won't go away
+------------------------------------------------------
+REF: I feel a sharp pain in my stomach
+HYP:  I feel a sharp pain in my stomach.
+------------------------------------------------------
+REF: My knee catches and hurts when I first stand up after sitting.
+HYP:  My knee touches and hurts when I first turn up after sitting.
+------------------------------------------------------
+REF: when i extend my leg there is pain in knee joint
+HYP:  When I extend my leg there is pain in knee joint.
+------------------------------------------------------
+REF: when i extend my leg there is pain in knee joint
+HYP:  When I extend my leg, there is pain in knee joint.
+------------------------------------------------------
+REF: I stopped sports because I get Injury from sports
+HYP:  I stop it sports because I get injury from sports
+------------------------------------------------------
+REF: My arm hurts when I stretch
+HYP:  May I ask for your next impression?
+------------------------------------------------------
+REF: I feel like I went to an acupuncture's practice and had 100 needles in my shoulder
+HYP:  I feel like I went to an acupuncture practice and had a hundred needles in my shoulder.
+------------------------------------------------------
+REF: I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!
+HYP:  I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye. I think it is pretty serious. Please help!
+------------------------------------------------------
+REF: I got acne when I ate chili
+HYP:  I got up when I had cheating.
+------------------------------------------------------
+REF: My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.
+HYP:  My son Nyskade has neck with an old roger and that spot has become inflamed and looks like it is interested
+------------------------------------------------------
+REF: I have a head pain every single day.
+HYP:  I have a hat pin every single day
+------------------------------------------------------
+REF: Every time I take a deep breath I start coughing
+HYP:  Every time I talk a deep bath I start cooing
+------------------------------------------------------
+REF: I have a rash and it itches very bad.
+HYP:  I have a russ and it is just very bad.
+------------------------------------------------------
+REF: I feel like I can hardly breathe unless I get what's in my lungs out
+HYP:  I feel that I can hardly breathe unless I get what's in my lungs out.
+------------------------------------------------------
+REF: I feel pain inside and I can not identify it
+HYP:  I feel pain inside and I cannot identify it.
+------------------------------------------------------
+REF: I have a dull ache in  my lower back which makes it difficult to move
+HYP:  I have a dull hatch in my lower back which makes it difficult to move
+------------------------------------------------------
+REF: I had alot of exercise yesterday so i feel sharp muscle pains
+HYP:  I had a lot of exercise yesterday so I feel sharp muscle pains.
+------------------------------------------------------
+REF: It started as a tinnitus, but today the pain is throbbing and unbearable.
+HYP:  It's tender as a Tinnitus but today the pain is through being and unraveling
+------------------------------------------------------
+REF: I have a great stomach ache and i can't eat any thing
+HYP:  I have a great stomach ache and I can't eat anything.
+------------------------------------------------------
+REF: I get chills and aches all over.
+HYP:  I get chills and eggs all over
+------------------------------------------------------
+REF: Can't keep focus
+HYP:  can't keep focus
+------------------------------------------------------
+REF: When I move on my shoulder, pain shoots down my arm
+HYP:  When I move on my shoulder, pain shoot down my arms.
+------------------------------------------------------
+REF: I have a great stomach ache and i can't eat any thing
+HYP:  I have a great stomach ache and I can't eat anything.
+------------------------------------------------------
+REF: When I lift my arms up I have a soreness in my shoulders
+HYP:  When I lift my arms up, I have a soreness in my shoulders.
+------------------------------------------------------
+REF: After eating  I have burning sensation inside of me.
+HYP:  After eating I have burning sensation inside of me
+------------------------------------------------------
+REF: can't do any exercise, i feel weak
+HYP:  Can't do any exercise, I feel weak.
+------------------------------------------------------
+REF: Yesterday I had a shouder pain
+HYP:  Yesterday I had a Shouter pain.
+------------------------------------------------------
+REF: When I played football I dislocated my shoulder
+HYP:  When I played football, I dislocated my shoulder.
+------------------------------------------------------
+REF: It hurts when I bent my arm
+HYP:  I hearts when I bend my arm
+------------------------------------------------------
+REF: The joints in my fingers are painful in the morning.
+HYP:  The joints in my fingers are painful in the morning.
+------------------------------------------------------
+REF: I am having running nose
+HYP:  I am having running nose.
+------------------------------------------------------
+REF: I have a hard muscle pain since i went to the gym
+HYP:  I have a hard muscle pain since I went to the gym.
+------------------------------------------------------
+REF: Is there a cure for acne?
+HYP:  Is there a cure for acne?
+------------------------------------------------------
+REF: My body feels weak and i think that my face is fade and i can't sleep well
+HYP:  My body feels weak and I think that my face is fade and I can't sleep well.
+------------------------------------------------------
+REF: I have a pain that radiates up from my right hip to my rib cage.  It is at it's worst when I urinate.
+HYP:  I have a pain that radiates up from my right hip to my rib cage. It is at its worst when I urinate.
+------------------------------------------------------
+REF: I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.
+HYP:  I got a divorce last year and I just kinda stopped drawing on how to get revenge on my ex husband.
+------------------------------------------------------
+REF: I have an internal pain I cannot describe
+HYP:  I have an internal pain. I cannot describe.
+------------------------------------------------------
+REF: I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.
+HYP:  I cut my hand a couple of times ago. I also I didn't think I needed to fix it. It has been closed up.
+------------------------------------------------------
+REF: chronic disease of hair follicles and sebaceous glands.
+HYP:  Chronic disease of hair follicles and sebaceous glands.
+------------------------------------------------------
+REF: My acne is really embarassing. It's so read.
+HYP:  My acne is really embarrassing. It's so weak.
+------------------------------------------------------
+REF: I got injured exercising
+HYP:  I got injured exercising.
+------------------------------------------------------
+REF: My foot is hurting so much.
+HYP:  My whip is hurting so much.
+------------------------------------------------------
+REF: My entire body is freezing.
+HYP:  My entire body is freezing.
+------------------------------------------------------
+REF: I have severe shoulder pain
+HYP:  I have silver... Solar pin!
+------------------------------------------------------
+REF: i have severe dry cough
+HYP:  I have severe dry cough.
+------------------------------------------------------
+REF: I had alot of exercise yesterday so i feel sharp muscle pains
+HYP:  I had a lot of exercise yesterday so I feel sharp muscle pains.
+------------------------------------------------------
+REF: My knee feels weak and it gave way the other day at the top of the stairs.  Luckily there was a rail to hold on to.
+HYP:  My knee feels weak and it gives way the other day at the top of the store. Luckily there was a trail to hold on to.
+------------------------------------------------------
+REF: I feel weak all over.
+HYP:  I feel weak all over.
+------------------------------------------------------
+REF: Feels like there are pins and needles sticking in my joints
+HYP:  Feels like there are pins and needles sticking my joints
+------------------------------------------------------
+REF: i feel pain in my knee
+HYP:  I peel pen in my knee
+------------------------------------------------------
+REF: I think there's fluid in my ears.
+HYP:  I think there is fluid in my ears
+------------------------------------------------------
+REF: I have an open wound in my arm
+HYP:  I have a open wound in my arm.
+------------------------------------------------------
+REF: Chronic disease of hair follicles and sebaceous glands
+HYP:  Granny uses a pen for wrinkles on the semi-sus gland.
+------------------------------------------------------
+REF: I hit my head at the basketball game.  Could I have a concussion?
+HYP:  I hit my head at the basketball game could I have a concussion?
+------------------------------------------------------
+REF: My body aches on the inside between my hips and shoulders.
+HYP:  My body aches on the inside between my hips and shoulders.
+------------------------------------------------------
+REF: My ankle joint throbs when I put pressure on my foot.
+HYP:  My ankle joint ropes when I put pressure on my foot
+------------------------------------------------------
+REF: i can't see well
+HYP:  I can see well.
+------------------------------------------------------
+REF: My shoulder has agreat pain
+HYP:  My shoulder has a great pain.
+------------------------------------------------------
+REF: I have terrible pain in my heart
+HYP:  I have to remove paint in my hair
+------------------------------------------------------
+REF: I have a back pain since I fell on the floor.
+HYP:  I have a back pain since I fell on the floor.
+------------------------------------------------------
+REF: Everything looks like beeing in a smoky area.
+HYP:  Everything looks like being in a smoky area.
+------------------------------------------------------
+REF: I have a mental suffering
+HYP:  I have mental suffering.
+------------------------------------------------------
+REF: I have a back pain since I turned 70 years old.
+HYP:  I have a back pain since I turned 17 years old.
+------------------------------------------------------
+REF: I have a pain in my head
+HYP:  I have a pain in my head.
+------------------------------------------------------
+REF: My right shoulder clicks when I move my arm.
+HYP:  My right shoulder clicks when I move my arm
+------------------------------------------------------
+REF: Had I stepped on a needle it wouldn't have hurt so much, like this damned spur in my heel.
+HYP:  Had I stepped on a needle, it wouldn't have hurt so much like this damned spur in my heel.
+------------------------------------------------------
+REF: My face is all broken out with pimples.
+HYP:  My face is all broken out with pimples.
+------------------------------------------------------
+REF: My foot had been aching since last Tuesday.
+HYP:  My foot had been aching since last Tuesday.
+------------------------------------------------------
+REF: My heart feels like it's going to explode.
+HYP:  My heart feels like it's going to explode.
+------------------------------------------------------
+REF: I have some terrible problems when i'm breathing during the night.
+HYP:  I have some terrible problems when I am breathing during the nights
+------------------------------------------------------
+REF: I have a great stomach ache and i can't eat any thing
+HYP:  I have a witness to my bank and I can't pay anything to the people
+------------------------------------------------------
+REF: I notice a lot more hair coming out than usual when I brush my hair
+HYP:  I notice a lot more hair coming out than usual when I brush my hair.
+------------------------------------------------------
+REF: I never had any acne problem until my last pregnancy, when all of a sudden my back got covered in zits.
+HYP:  I never had any SNA problem even till my last pregnancy when all of a sudden my back got caught in jits
+------------------------------------------------------
+REF: I have a dull ache in my stomach.  It gets worse after I eat.
+HYP:  I have a dull acne in my stomach. It gets warm after I eat.
+------------------------------------------------------
+REF: When I go to stand, my head starts swirling
+HYP:  When I go to stand, my head starts swirling.
+------------------------------------------------------
+REF: I have a blurry vision during my swimming training in the pool, why?
+HYP:  I have a prohibition during my student training in the pool. Why?
+------------------------------------------------------
+REF: i have whooping cough with excess mucous, need mucolytic.
+HYP:  I have grouping cache with Xs mccause. Meet mccolitic
+------------------------------------------------------
+REF: My joints feel swollen
+HYP:  My joints feel swollen
+------------------------------------------------------
+REF: My head hurts when I'm doing this.
+HYP:  My head hurts when I'm doing this.
+------------------------------------------------------
+REF: The severe pain in the stomach I feel
+HYP:  The severe pain in the stomach I feel.
+------------------------------------------------------
+REF: I have a dull ache in my head
+HYP:  I have a delay in my head.
+------------------------------------------------------
+REF: I have a blurry vision and i can't see in the darkness , what is the reason doctor ?
+HYP:  I have blurry vision and I can't see in the darkness. What is the reason doctor?
+------------------------------------------------------
+REF: I think I sprained my ankle it really hurts.
+HYP:  I think I sprained my ankle. It really hurts.
+------------------------------------------------------
+REF: My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.
+HYP:  My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.
+------------------------------------------------------
+REF: I don't have problems taking in breath but out breath is so heavy
+HYP:  I don't have problems taking in breath, but out breath is so heavy.
+------------------------------------------------------
+REF: Sometimes my body feels week without reason
+HYP:  Sometimes my body feels weak without reason.
+------------------------------------------------------
+REF: I feel a pain in my back when I sit on a chair for long.
+HYP:  I feel a pain in my back when I sit on a chair for long.
+------------------------------------------------------
+REF: My neck has been sore since the accident.
+HYP:  My neck has been sore since the accident.
+------------------------------------------------------
+REF: i was travelling by ship and i feel dizzy.
+HYP:  I was traveling by ship and I feel dizzy.
+------------------------------------------------------
+REF: Even if the temperature is high in the house,  my body is always cold
+HYP:  Even if the temperature is high and the house my body is always cold
+------------------------------------------------------
+REF: I'm not feeling good I can't take my breath
+HYP:  I'm not feeling good. I can't take my wrist.
+------------------------------------------------------
+REF: My hair is falling out after I take a shower.
+HYP:  My hair is falling out after I take a shower.
+------------------------------------------------------
+REF: I feel very hard to breathe
+HYP:  I feel very hard to breathe.
+------------------------------------------------------
+REF: I have a pain that radiates up from my right hip to my rib cage.  It is at it's worst when I urinate.
+HYP:  I have been that radiates up from my right hip to my ribcage. It is added also when I pureed in my ribcage.
+------------------------------------------------------
+REF: It's hard to stand up, and I'm moving very slowly
+HYP:  It's hard to stand up and I'm moving very slowly.
+------------------------------------------------------
+REF: I had a cold the last time I travelled by plane and I still have a discomfort in my ears.
+HYP:  I had a cold the last time I traveled by plane and I still have a discomfort in my ears.
+------------------------------------------------------
+REF: is my cut infected or just healing?
+HYP:  Is my gut infected or just healing?
+------------------------------------------------------
+REF: i have a problem in my back i cannot extend it
+HYP:  I have a problem in my bag I can't extend it
+------------------------------------------------------
+REF: I have a ear ache when I go to the pool
+HYP:  I have a rake when I go to the pool.
+------------------------------------------------------
+REF: My sore isn't healing well and it's been like this for two weeks.
+HYP:  My sword is not healing well and it's been like this for two weeks
+------------------------------------------------------
+REF: i can't walk, my knee hurts me
+HYP:  I can't walk, my knee hurts me.
+------------------------------------------------------
+REF: my neck hurts me and i can't look down or up
+HYP:  My neck harming and I can't knock down or else.
+------------------------------------------------------
+REF: I feel like something is squeezing my lungs.
+HYP:  I feel like something is squeezing my lungs
+------------------------------------------------------
+REF: I feel dizzy whenever I stand up.
+HYP:  IPLDG wherever I stand on
+------------------------------------------------------
+REF: It itches inside my ears.
+HYP:  It peaches inside my ears
+------------------------------------------------------
+REF: I feel joint pain every time I move
+HYP:  I feel joint pain every time I move.
+------------------------------------------------------
+REF: My cough is very heavy and I have mucus.
+HYP:  My coach is very heavy and I have moccas.
+------------------------------------------------------
+REF: I have some terrible problems when i'm breathing during the night.
+HYP:  I have some terrible problems when I am dating during the night.
+------------------------------------------------------
+REF: I've tried reading books, but nothing can cheer me up.
+HYP:  I've tried reading books but nothing can cheer me up.
+------------------------------------------------------
+REF: When I eat too much sugar my body gets weak and dizzy.
+HYP:  When I eat too much sugar my body gets weak and dizzy
+------------------------------------------------------
+REF: I feel a sharp pain in the stomach after eating
+HYP:  I feel a sharp pain in the stomach after eating
+------------------------------------------------------
+REF: i hit the ground when trying to shoot a basketball
+HYP:  I hit the ground when trying to shoot a basketball.
+------------------------------------------------------
+REF: i have a pain in my trapes
+HYP:  I have a pain in my trapeze.
+------------------------------------------------------
+REF: i have a pain in my elbow joint
+HYP:  I have a vein in my elbow joint.
+------------------------------------------------------
+REF: My lower back hurts but it improves if I stretch it
+HYP:  My lower back hurts but it improves if I stretch it.
+------------------------------------------------------
+REF: My hair is falling out in huge amount
+HYP:  My hair is peeling out in bug amount
+------------------------------------------------------
+REF: When i'm driving my eyes see in double
+HYP:  When I'm driving my eyes seem double
+------------------------------------------------------
+REF: My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.
+HYP:  My son has his lip blushing. I'm aerosoling and the skin is high up and his lip is gray and looks just like that.
+------------------------------------------------------
+REF: Chronic bone disease at the level of the doubles of the lower Estremidades
+HYP:  Chronic burn is at the level of the removal of the railway at the me IELTS.
+------------------------------------------------------
+REF: Every time I make an effort, I felt dizzy.
+HYP:  Every time I make an effort, I felt dizzy.
+------------------------------------------------------
+REF: My body feels weak although I take my vitamins regularly.
+HYP:  My body feels weak although I take my vitamins regularly.
+------------------------------------------------------
+REF: When I sneeze very hard I feel ear ache
+HYP:  When I sneeze very hard, I feel earache.
+------------------------------------------------------
+REF: I feel aching on my insides.
+HYP:  I feel aching on my insides.
+------------------------------------------------------
+REF: I tried to put my glasses to see more clear but cant find any change
+HYP:  I tried to put my glasses to see more clear but can't find any change.
+------------------------------------------------------
+REF: I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.
+HYP:  I started taking sweet relation and I guess I swallowed too much water from my nose because this sinusitis is killing me now
+------------------------------------------------------
+REF: My hair is coming out in chunks, especially when I wash it
+HYP:  My hair is coming out in chunks especially when I wash it.
+------------------------------------------------------
+REF: Severe pain in the ear
+HYP:  See you in the next video.
+------------------------------------------------------
+REF: I have shoulder pain when I try to carry my groceries.
+HYP:  I have shorter pain when I try to carry my groceries.
+------------------------------------------------------
+REF: I feel like my heart is on fire.
+HYP:  I feel like my heart is on fire.
+------------------------------------------------------
+REF: I feel like I went to an acupuncture's practice and had 100 needles in my shoulder
+HYP:  I feel I went to an acupuncturist practice and had a hundred needles in my shoulder.
+------------------------------------------------------
+REF: Whenever I stand up I feel dizzy.
+HYP:  Whenever I stand up, I feel this.
+------------------------------------------------------
+REF: I have a powerful pain inside my neck
+HYP:  I have a power hole pin inside my neck
+------------------------------------------------------
+REF: I can't hear out of my ear properly, I feel like there is something in it causing irritation.
+HYP:  I can't air out of my air properly I feel like there is something in it's cause addition
+------------------------------------------------------
+REF: When I stand up too quickly I start to feel dizzy and light-headed
+HYP:  When I stand up too quickly, I start to feel dizzy and light-headed.
+------------------------------------------------------
+REF: The wound is still open
+HYP:  The old is still open
+------------------------------------------------------
+REF: There is a tingling sensation in my neck.
+HYP:  There is a tingling sensation in my neck
+------------------------------------------------------
+REF: My knee is hurting so badly.
+HYP:  My knee is hurting so badly.
+------------------------------------------------------
+REF: i have muscle pain at my left leg.
+HYP:  I have muscle pain at my left leg.
+------------------------------------------------------
+REF: I have a headache every time I eat ice cream
+HYP:  I have a headache every time I eat ice cream.
+------------------------------------------------------
+REF: I get tired too fast, I can barely put on my clothes in the morning.
+HYP:  I get tired too fast. I can barely put on my clothes in the morning.
+------------------------------------------------------
+REF: I feel a soreness in my knees when I walk
+HYP:  I feel a soreness in my knees when I walk
+------------------------------------------------------
+REF: I can't do anything I feel a weak in my body
+HYP:  I can't do anything, I feel weak in my body.
+------------------------------------------------------
+REF: I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?
+HYP:  I feel dizzy when I step in front of my laptop for an hour or two. What possibly could be the reason?
+------------------------------------------------------
+REF: I get a knee pain when I walk a lot
+HYP:  I get a knee pain when I walk a lot.
+------------------------------------------------------
+REF: After playing tennis,  I had a powerful sensation close to my neck
+HYP:  After playing tennis I had a powerful sensation close to my neck
+------------------------------------------------------
+REF: There is a sharp pain in my bicep
+HYP:  There is a sharp pain in my bicep.
+------------------------------------------------------
+REF: When i get up i see my skin vague
+HYP:  When I get up I see my knees fake.
+------------------------------------------------------
+REF: I have a problem in the expiration because i have abronchial asthma
+HYP:  I have a problem in the expiration because I have a bronchial asthma.
+------------------------------------------------------
+REF: The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.
+HYP:  The worst headache was during a hangover in my 20s. I sincerely thought I was going to die from brain inflammation.
+------------------------------------------------------
+REF: I am worried how cold intolerant I am, I am always shivering, even out in the sun.
+HYP:  I am Ored, how cold, internet I am. I am alleged, severing even, out in the sun.
+------------------------------------------------------
+REF: i'm injured i can't play sports
+HYP:  I'm injured. I can't play sports.
+------------------------------------------------------
+REF: I felt my heart hurts when I ran for along distance
+HYP:  I fell to my hardwood when I ran for a long distance.
+------------------------------------------------------
+REF: when i was washing my hair it was falling out heavily
+HYP:  When I was washing my hair, it was falling out heavily.
+------------------------------------------------------
+REF: my child has cough all night, she can't sleep
+HYP:  My child has cough all night she can't sleep
+------------------------------------------------------
+REF: I feel aching on my insides.
+HYP:  I feel aching on my insides
+------------------------------------------------------
+REF: i feel sad
+HYP:  I feel sad
+------------------------------------------------------
+REF: I have a pain in my muscle
+HYP:  I have pain in my muscle
+------------------------------------------------------
+REF: My hair is falling without a reason, I can see a lot of hair on my working desk.
+HYP:  My hair is falling without a reason. I can see a lot of hair on my working desk.
+------------------------------------------------------
+REF: I have a blurry vision since I woke up this morning, what could be the reason?
+HYP:  I have a bloody vision since I woke up this morning. What could be your return?
+------------------------------------------------------
+REF: i feel that is great pain in my left shoulder
+HYP:  I feel that there is great pain in my left shoulder.
+------------------------------------------------------
+REF: I wish this excruciating feeling of loss could go away.
+HYP:  I wish this excruciating feeling of loss could go away.
+------------------------------------------------------
+REF: His infected wound was beginning to rot.
+HYP:  His effective ground was beginning to drop.
+------------------------------------------------------
+REF: When I eat sugar I notice my vision blurs.
+HYP:  When I eat sugar, I notice my vision blooms.
+------------------------------------------------------
+REF: I have a throbbing in my joints
+HYP:  A other throbbing in my joints
+------------------------------------------------------
+REF: When I wake up I am feeling cold
+HYP:  When I wake up, I am feeling cold.
+------------------------------------------------------
+REF: I feel a burning sensation in my guts about 2 hours after each meal.
+HYP:  I feel a burning sensation in my kids about 2 hours after each meal.
+------------------------------------------------------
+REF: I feel very weak in my body
+HYP:  I feel very weak in my body.
+------------------------------------------------------
+REF: stiffness inability to look right or left except by moving the whole body
+HYP:  stiffness and ability to look right or left except by moving the whole body.
+------------------------------------------------------
+REF: My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.
+HYP:  My son had a root canal and the dentist accidentally cut the inside of his cheek and now he will not heal.
+------------------------------------------------------
+REF: I'm not hearing well I have problem with my ear
+HYP:  I'm not hearing well, I have problem with my EO.
+------------------------------------------------------
+REF: When I remember her I feel down
+HYP:  When I remember, here I peel down.
+------------------------------------------------------
+REF: I have terrible pain in my heart
+HYP:  I have terrible pain in my heart.
+------------------------------------------------------
+REF: I'm very worried that I'll go bald soon. Am I very sick?
+HYP:  I'm very worried that I'll go ball soon. Am I very sick?
+------------------------------------------------------
+REF: I feel cold although we are in summer.
+HYP:  Also we are in summer.
+------------------------------------------------------
+REF: My chest acne breaks out and never clears up.
+HYP:  My chest acne breaks out and never clears up.
+------------------------------------------------------
+REF: I have cloudy eyes
+HYP:  I have cloudy eyes.
+------------------------------------------------------
+REF: When i eat i feel my stomach hurts
+HYP:  When I eat, I feel my stomach hurts.
+------------------------------------------------------
+REF: When I was young I had an injury from sports in my knee.
+HYP:  When I was young, I had an injury from a spool in my neck.
+------------------------------------------------------
+REF: I cannot breathe because of this dull ache below my left shoulder.
+HYP:  I cannot breathe because of this dull ache below my left shoulder.
+------------------------------------------------------
+REF: I think there's something wrong with my wound, it does not seem to heal like it should.
+HYP:  I think there is something wrong with my wound. It doesn't seem to heal like it should.
+------------------------------------------------------
+REF: I could not exercise because of my knee pain
+HYP:  I could not get the search because of my head bang.
+------------------------------------------------------
+REF: I have a feeling like my whole body is complaining
+HYP:  I have a feeling like my whole body is complaining.
+------------------------------------------------------
+REF: my abdominal muscles have great pain since i was at GYM
+HYP:  My abdominal muscles have great pain since I was a chimp.
+------------------------------------------------------
+REF: In the morning my respiration is loud.
+HYP:  In the morning my respiration is loud.
+------------------------------------------------------
+REF: heavy breath with fatigue
+HYP:  Have a great New fatigue!
+------------------------------------------------------
+REF: My shoulder hurts when I try to reach something above my head.
+HYP:  My shoulder hurts when I try to reach something above my head.
+------------------------------------------------------
+REF: I feel pain in the knee
+HYP:  I feel pain in the knee
+------------------------------------------------------
+REF: Don't cry
+HYP:  Don't try.
+------------------------------------------------------
+REF: I cut my foot at the pool and it breaks open every day when I walk on it.
+HYP:  I cut my foot of the pool and it breaks open every day when I walk in it.
+------------------------------------------------------
+REF: I have this strange rash on my arm.
+HYP:  I have this strange rash on my arm.
+------------------------------------------------------
+REF: Yesterday I had a shouder pain
+HYP:  Yes if they had a shoulder pain
+------------------------------------------------------
+REF: I feel a burning sensation in my shoulder muscle.
+HYP:  I feel a burning sensation in my shoulder muscles.
+------------------------------------------------------
+REF: my hair isn't well
+HYP:  My hair needs to dwell.
+------------------------------------------------------
+REF: i have shoulder pain after doing any home work.
+HYP:  Hello I am Chahan
+------------------------------------------------------
+REF: I feel a pain in my neck
+HYP:  I feel a pain in my neck.
+------------------------------------------------------
+REF: I feel dizzy after doing a muscular effort.
+HYP:  I feel blessed after doing a most lotta power.
+------------------------------------------------------
+REF: I feel severe itching in the skin with redness
+HYP:  I feel server itching in the skin with redness
+------------------------------------------------------
+REF: My body feels weak although I take my vitamins regularly.
+HYP:  My body feels weak, although I take my vitamins regularly.
+------------------------------------------------------
+REF: I walk every day but now I get short of breath after going only a short way.
+HYP:  I go out of the way, but now I get chow up race after going only a short way.
+------------------------------------------------------
+REF: My chest break out with red pimples and whiteheads.
+HYP:  My chest will come with a simple hang. My chest.
+------------------------------------------------------
+REF: I need a kind of cream wich make my muscles more relaxed
+HYP:  I need a kind of cream which makes my muscles more relaxed.
+------------------------------------------------------
+REF: When I move on my shoulder, pain shoots down my arm
+HYP:  When I move on my shoulder, pain shoots down my arm.
+------------------------------------------------------
+REF: When I walk it's hard to breath.
+HYP:  When I walk it's hard to breath
+------------------------------------------------------
+REF: When i'm doing sport I have pain under my skin
+HYP:  When I am doing sport I have pain under my skin
+------------------------------------------------------
+REF: my abdominal muscles have great pain since i was at GYM
+HYP:  My abdominal muscles have great pain since I was a gym.
+------------------------------------------------------
+REF: I had a cut that was stitched together but it is not healing.  It is oozing green puss and burns.
+HYP:  I had a cut that was peed together but it is not healing. It is oozing green pus and buns.
+------------------------------------------------------
+REF: When I wake up in the morning I feel a soreness in my body
+HYP:  When I wake up in the morning, I feel sorry for my body.
+------------------------------------------------------
+REF: having difficulty moving my knee
+HYP:  Having difficulty moving my knee.
+------------------------------------------------------
+REF: I think my wound is infected
+HYP:  I think my wand is infected.
+------------------------------------------------------
+REF: My heart feels like it's going to explode.
+HYP:  My heart feels like it's going to explode.
+------------------------------------------------------
+REF: I'm not good i'm feeling so cold
+HYP:  I'm not God. I am feeling so cold.
+------------------------------------------------------
+REF: Sterilizer for the eye
+HYP:  Stereo lives are for the eye.
+------------------------------------------------------
+REF: I knocked my foot and it really hurts.
+HYP:  I knocked my foot and it really hurts.
+------------------------------------------------------
+REF: After an hard working day I have foot ache
+HYP:  After a hard working day I have food ashi.
+------------------------------------------------------
+REF: Surgical wound infections
+HYP:  Surgical wound infections
+------------------------------------------------------
+REF: I feel a great amount of pressure on the sides of my neck
+HYP:  I feel a great amount of pressure on the sides of my neck.
+------------------------------------------------------
+REF: i have pain like needles in my joints.
+HYP:  I have pin like needles in my joints.
+------------------------------------------------------
+REF: i can't walk, my knee hurts me
+HYP:  I can walk, my knee hurts me.
+------------------------------------------------------
+REF: My hair is falling out in bunches.
+HYP:  My hair is falling out in bunches
+------------------------------------------------------
+REF: I knocked my foot and it really hurts.
+HYP:  I knocked my foot and it really hurt
+------------------------------------------------------
+REF: I feel cold when the night comes
+HYP:  I feel cold when the night comes.
+------------------------------------------------------
+REF: My calves feel like they are tight as knots and are throbbing
+HYP:  My calves feel like they are tight as knots and are throbbing.
+------------------------------------------------------
+REF: Something dark is there on my arm
+HYP:  Something dark is there on my arm.
+------------------------------------------------------
+REF: I feel pain in my knee when I climb the stairs.
+HYP:  I feel very magnetic when I climb the stairs.
+------------------------------------------------------
+REF: I don't have full range of motion with my arms
+HYP:  I don't have full range of motion with my arms
+------------------------------------------------------
+REF: I feel really sad all the time.
+HYP:  I feel really sad all the time
+------------------------------------------------------
+REF: I feel pain in my throat
+HYP:  I feel pain in my throat
+------------------------------------------------------
+REF: I feel like I've always got something in my throat
+HYP:  I feel like I've always got something in my throat
+------------------------------------------------------
+REF: My right shoulder clicks when I move my arm.
+HYP:  My right shoulder clicks when I move my arm
+------------------------------------------------------
+REF: I have a pain in my stomach
+HYP:  I have a bag in my stomach
+------------------------------------------------------
+REF: I don't have full range of motion with my arms
+HYP:  I don't have full range of motion with my arms.
+------------------------------------------------------
+REF: I feel joint pain every time I move
+HYP:  I feel joint pain every time I move.
+------------------------------------------------------
+REF: I feel like l fell in hot water
+HYP:  I feel like I fell in hot water.
+------------------------------------------------------
+REF: I have acne in my face and other problema in my derma like itching
+HYP:  I have red meat in my face and other problem he made them like itching
+------------------------------------------------------
+REF: I have a blurry vision and i can't see in the darkness , what is the reason doctor ?
+HYP:  I have a very vision and it can see in the darkness. What is the reason doctor?
+------------------------------------------------------
+REF: red flushes accompanied with itchy
+HYP:  Read classes Accompanied with itchy
+------------------------------------------------------
+REF: When I play football I have muscle pain.
+HYP:  When I play football, I have muscle pain.
+------------------------------------------------------
+REF: When I eat sugar I notice my vision blurs.
+HYP:  Then I eat sugar, I notice my vision blur.
+------------------------------------------------------
+REF: I have a pain in my head
+HYP:  I have a pain in my head.
+------------------------------------------------------
+REF: My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down.
+HYP:  My nose is congested all the time and there is this gluteal secretion in my throat that make it impossible for me to sleep. I often have to not sit in the room.
+------------------------------------------------------
+REF: i have a great pain in my foot like thrombing pain with relaxing my pain releif
+HYP:  I have a great pain in my foot like throwing pain with reducing my pain relief
+------------------------------------------------------
+REF: I have a great stomach ache and i can't eat any thing
+HYP:  I have a great stomach ache and I can't eat anything.
+------------------------------------------------------
+REF: i have a problem in my back i cannot extend it
+HYP:  I have a problem in my back. I cannot attend it.
+------------------------------------------------------
+REF: I can't stand up or sit down I have a pain in my back that annoys me
+HYP:  I can't stand up or sit down. I have a pain in my back that annoys me.
+------------------------------------------------------
+REF: My ear is ringing.
+HYP:  My air is ringing
+------------------------------------------------------
+REF: I have eruptions on my face that come and go .
+HYP:  I have eruptions on my face that come and go.
+------------------------------------------------------
+REF: My head hurts in the back and the pain lasts all day.
+HYP:  My head hurts in the back and the pain lasts all day.
+------------------------------------------------------
+REF: There feels like a swollen knot at my shoulderblade with pain shooting from that
+HYP:  There feels like a swollen knot at my shoulder blade with pain showing from that.
+------------------------------------------------------
+REF: Anytime I play tennis I feel a shoulder pain
+HYP:  Anytime I play tennis, I feel a shoulder pain.
+------------------------------------------------------
+REF: It feels like my heart is going to leap out of my body. It hurts.
+HYP:  It feels like my heart is going to live out of my body. It hurts.
+------------------------------------------------------
+REF: The area around my heart doesn't feel good.
+HYP:  The area around my hair doesn't feel good.
+------------------------------------------------------
+REF: My entire body is freezing.
+HYP:  My entire body is freezing.
+------------------------------------------------------
+REF: When i'm doing sport I have pain under my skin
+HYP:  When I am doing sport I have pain under my skin.
+------------------------------------------------------
+REF: After a breakup  I feel something strange in me.
+HYP:  After a break up, I feel something strange in me.
+------------------------------------------------------
+REF: I'm having a hard time reading because the letters are all fuzzy
+HYP:  I'm having a heart attack now because the levels are out of sight.
+------------------------------------------------------
+REF: I've always been very active but now I just don't have the strength or energy to go for even a short walk.
+HYP:  I've always been very active, but now I just don't have to strength or energy to go for even short walk.
+------------------------------------------------------
+REF: I was very active in sports but now my body is feeling pain.
+HYP:  I was very active in sports but now my body is feeling pain
+------------------------------------------------------
+REF: When I force my eyes to view I have blurry vision.
+HYP:  When I force my eyes to view, I have really been through.
+------------------------------------------------------
+REF: My hair always falls out and i have lost a lot of hair lately
+HYP:  My hair always falls out and I have lost a lot of hair at least.
+------------------------------------------------------
+REF: My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.
+HYP:  My husband left me for another woman. My heart hurts so badly to the point I can't eat or sleep.
+------------------------------------------------------
+REF: there is a red stain in my skin
+HYP:  There is a red stain in my skin.
+------------------------------------------------------
+REF: I couldn't stop shaking or unclench my jaw, that's how cold I was.
+HYP:  I couldn't stop shaking or unclench my jaw. That's how cold I was.
+------------------------------------------------------
+REF: The crushing sensation on my heart leaves me breathless.
+HYP:  The crushing sensation of my heart leave me reckless.
+------------------------------------------------------
+REF: When I go to sleep I am feeling cold
+HYP:  When I go to sleep, I am feeling cold.
+------------------------------------------------------
+REF: There are lots of hairs on my pillow in the morning.
+HYP:  There are a lot of hair on my pillow in the morning.
+------------------------------------------------------
+REF: My shoulder aches when I try to lift five pounds.
+HYP:  My shoulder aches when I try to lift 5 pounds.
+------------------------------------------------------
+REF: I have a cut that is red and swollen.
+HYP:  I have a card that is red and so long
+------------------------------------------------------
+REF: i have a hard pain in my stomach
+HYP:  I have a heart pain in my stomach.
+------------------------------------------------------
+REF: my shoulder is hurting me
+HYP:  My shoulder is horsing me
+------------------------------------------------------
+REF: i have a pain in my elbow joint
+HYP:  I have a pain in my elbow joint.
+------------------------------------------------------
+REF: Oh my heart hurts me I tried to be calm and I can't
+HYP:  Oh, my head hurt me. I attempted to be calm and I came.
+------------------------------------------------------
+REF: I don't do anything at home and still I feel exhausted.
+HYP:  I don't do anything at home and still I feel exhausted.
+------------------------------------------------------
+REF: there is acne on my face
+HYP:  There is acne on my face.
+------------------------------------------------------
+REF: I don't know why I'm constantly sad.
+HYP:  I don't know why I'm constantly sad.
+------------------------------------------------------
+REF: My hair is falling out in bunches.
+HYP:  My hair is falling out in bunches.
+------------------------------------------------------
+REF: I can't really jump on my left foot because my triple fracture of the ankle left me with neverending pains.
+HYP:  I can't really jump on my left foot because my triple fracture of the ankle left me with never ending pains.
+------------------------------------------------------
+REF: I feel really sad all the time.
+HYP:  I feel really sad all the time.
+------------------------------------------------------
+REF: I feel weak all over.
+HYP:  I feel weak all over.
+------------------------------------------------------
+REF: I have an indigestion
+HYP:  I have an indigation
+------------------------------------------------------
+REF: I'm feeling nauseous
+HYP:  I'm feeling nauseous.
+------------------------------------------------------
+REF: i have a problem in my middle ear made by infection
+HYP:  I have a problem in my middle ear, it's made of infection.
+------------------------------------------------------
+REF: I noticed an important decrease in my vision when I try to look at things up close.
+HYP:  I notice an important decrease in my vision when I try to look at things up close.
+------------------------------------------------------
+REF: I cannot bear this squeezing sensation I have in my chest.
+HYP:  I cannot bear this squeezing sensation I have in my chest
+------------------------------------------------------
+REF: when i raise my hand i feel pain in my shoulder.
+HYP:  When I raise my hand, I feel pain in my shoulder.
+------------------------------------------------------
+REF: I feel like I just can't cope anymore, I feel overwhelmed and like I just can't get a break.
+HYP:  I feel like I just can't cope anymore. I feel overwhelmed and like I just can't get a break.
+------------------------------------------------------
+REF: I have pain in my chest that saddens me.
+HYP:  I have been in my chest that sudden
+------------------------------------------------------
+REF: My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected.
+HYP:  My son got a tattoo several weeks ago and the skin around each reside and hot and it looks invested
+------------------------------------------------------
+REF: I feel pain in my ears with tinnitus
+HYP:  I peel pen in my ears with tinnitus
+------------------------------------------------------
+REF: severe pain in the upper left side of chest and may have pain to back
+HYP:  Super pain in the upper left side of chest and may have pain to back.
+------------------------------------------------------
+REF: There is a sharp pain in my bicep
+HYP:  There is a hotbed in my recap
+------------------------------------------------------
+REF: I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.
+HYP:  I often get sharp pain in my chest and I can't tell what I'm doing that might be triggered.
+------------------------------------------------------
+REF: I feel pain in my head with a vertigo
+HYP:  I feel pain in my head with a vertigo.
+------------------------------------------------------
+REF: All of a sudden I felt dizzy when I stood up.
+HYP:  All of a sudden I felt dizzy when I stood up
+------------------------------------------------------
+REF: I feel a pain on the left side of my chest, where my heart is
+HYP:  I feel a pain on the left side of my chest, where my heart is.
+------------------------------------------------------
+REF: I have a pain internal
+HYP:  I have a pain internal.
+------------------------------------------------------
+REF: It is like I have a needle pushing through my heart.
+HYP:  It is like I have a needle pushing through my heart.
+------------------------------------------------------
+REF: I have a sharp pain in my abdomen.
+HYP:  I have a sharpie in my abdomen.
+------------------------------------------------------
+REF: I fell a stiffness in my elbows and shoulders
+HYP:  I fail my stage net in my elbows and shoulder
+------------------------------------------------------
