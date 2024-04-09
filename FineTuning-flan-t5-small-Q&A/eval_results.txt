@@ -1,0 +1,1 @@
+{'eval_loss': 0.7412078380584717, 'eval_rouge': {'rouge1': 0.7088621921492555, 'rouge2': 0.42319923889576266, 'rougeL': 0.7083278027328476, 'rougeLsum': 0.7083013530228676}, 'eval_exact_match': {'exact_match': 0.4228154861589991}, 'eval_runtime': 4747.2003, 'eval_samples_per_second': 4.277, 'eval_steps_per_second': 0.535, 'epoch': 5.0}
